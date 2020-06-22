@@ -1,4 +1,1 @@
-- **Home**
-	- [Lyceum](/)
-- **Contents**
-	- [Fundamentals](/contents.md)
+* [Home](/)
