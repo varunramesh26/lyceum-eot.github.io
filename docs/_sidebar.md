@@ -1,1 +1,2 @@
-* [Home](/)
+- Getting started
+  - [Contents](contents.md)
